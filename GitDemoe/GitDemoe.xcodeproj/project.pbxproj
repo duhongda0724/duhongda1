@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC16D2BF1D91A854004EA521 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC16D2BE1D91A854004EA521 /* NewViewController.swift */; };
 		BC4951AA1D91A349006D1FD1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4951A91D91A349006D1FD1 /* AppDelegate.swift */; };
 		BC4951AC1D91A349006D1FD1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4951AB1D91A349006D1FD1 /* ViewController.swift */; };
 		BC4951AF1D91A349006D1FD1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC4951AD1D91A349006D1FD1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC16D2BE1D91A854004EA521 /* NewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		BC4951A61D91A349006D1FD1 /* GitDemoe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemoe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC4951A91D91A349006D1FD1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BC4951AB1D91A349006D1FD1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		BC49519D1D91A349006D1FD1 = {
 			isa = PBXGroup;
 			children = (
+				BC16D2BE1D91A854004EA521 /* NewViewController.swift */,
 				BC4951A81D91A349006D1FD1 /* GitDemoe */,
 				BC4951A71D91A349006D1FD1 /* Products */,
 			);
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC16D2BF1D91A854004EA521 /* NewViewController.swift in Sources */,
 				BC4951AC1D91A349006D1FD1 /* ViewController.swift in Sources */,
 				BC4951AA1D91A349006D1FD1 /* AppDelegate.swift in Sources */,
 			);
@@ -286,6 +290,7 @@
 				BC4951BA1D91A349006D1FD1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
